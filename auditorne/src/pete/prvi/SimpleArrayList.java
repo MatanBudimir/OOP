@@ -27,6 +27,8 @@ public class SimpleArrayList {
     }
 
     public Object get(int index) {
+        if (size() <= index)
+            return null;
         return arr[index];
     }
 
