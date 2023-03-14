@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="rekapitulacija_gradiva/src"/>
+	<classpathentry kind="src" path="trece/src"/>
+	<classpathentry kind="output" path="rekapitulacija_gradiva/out/production/rekapitulacija_gradiva"/>
+</classpath>
